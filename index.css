@@ -111,23 +111,6 @@ a{
 :hover .account{
     animation: movebg 5s infinite;
 }
-@keyframes movebg{
-    10%{
-        background-image: url(https://img.freepik.com/free-photo/red-sneakers-wooden-background_93675-128083.jpg);
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
-    45%{
-        background-image: url(https://burst.shopifycdn.com/photos/rooftopper-looking-down.jpg?width=1200&format=pjpg&exif=1&iptc=1);
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
-    100%{
-        background-image: url(https://wallpaper.dog/large/17173403.jpg);
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
-}
 
 .box{
     height:100px;
